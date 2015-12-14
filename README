@@ -1,0 +1,6 @@
+Baisc POC for automatic testing of c++ programms. 
+
+git add <>
+git reset <>
+git commit -m "asd"
+git commit -m "asd" --no-verify
